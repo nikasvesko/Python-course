@@ -26,7 +26,7 @@ for line in hand:
 #a line that starts with X itself
 #kako biti jasniji sto zelis da matcha sto ne
 X-blabla: CMU
-X-haha: ne
-X-napravis razmak: Ne
+X-haha: Ne
+X-napravis razmak:  Ne
 
-
+#to moze bit dupli razmak, moze bit lower case odjednom...
